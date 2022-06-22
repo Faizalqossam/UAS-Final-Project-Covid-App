@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UAS-Final-Project-Covid-App/static/css/main.ce7e4995.css",
+    "main.js": "/UAS-Final-Project-Covid-App/static/js/main.919ad809.js",
+    "static/media/img1.png": "/UAS-Final-Project-Covid-App/static/media/img1.280b08f042c1a9d9762b.png",
+    "static/media/img6.svg": "/UAS-Final-Project-Covid-App/static/media/img6.b33d44a2823d7945fcf10b6c8b3559ae.svg",
+    "index.html": "/UAS-Final-Project-Covid-App/index.html",
+    "main.ce7e4995.css.map": "/UAS-Final-Project-Covid-App/static/css/main.ce7e4995.css.map",
+    "main.919ad809.js.map": "/UAS-Final-Project-Covid-App/static/js/main.919ad809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7e4995.css",
+    "static/js/main.919ad809.js"
+  ]
+}
